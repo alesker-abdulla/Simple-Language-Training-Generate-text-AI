@@ -1,4 +1,4 @@
-# simple-language-training-and-generate-text
+# Simple AI Model - Language Training & Generate text
 
 This repository contains code for training a language model using TensorFlow. The model is built using a sequential architecture with an embedding layer, LSTM layer, and a dense layer with softmax activation. The training process involves tokenizing input text, creating input sequences and labels, and utilizing early stopping for optimization. Additionally, the repository includes functionality to save the trained model and the associated tokenizer. This code can serve as a starting point for language modeling tasks and natural language processing projects.
 
